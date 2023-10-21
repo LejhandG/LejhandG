@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-![GitHub Banner](https://cdn.discordapp.com/attachments/676775305746317313/1165220163285688351/standard.gif?ex=65460ed7&is=653399d7&hm=efabb0d5dd9e4015178562b783356f0f6cdee42068b1a7cd39ff9f03032a6050&)
+![GitHub Banner](https://i.ibb.co/8cp063z/standard.gif)
 
 > 🚀 Let's Dive into the Code and Craft the Future! 🚀
 
